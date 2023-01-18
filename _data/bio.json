@@ -33,25 +33,25 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "MIS and Management (expected Spring, 2024)",
+      "studyType": "B.B.A",
+      "startDate": "2022-08-01",
       "endDate": "Present",
-      "courses": [
+      "courses": "ITM 352", [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Starbucks",
+      "position": "Barista",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2022-12-26",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Customer Service, Crafting Beverage, High Communication Skills",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Learning the craft of making beverages.",
+        "Connecting with customers to give them a high quality experience"
       ]
     },
     {
