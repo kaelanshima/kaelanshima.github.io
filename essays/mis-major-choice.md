@@ -1,13 +1,12 @@
 ---
 layout: essay
 type: essay
-title: "Why I chose MIS major"
+title: "Why I Choose MIS major"
 date: 2023-01-17
 published: true
 labels:
   - Management Information Systems
 
-*Why I Choose MIS Major*
+##Why I Choose MIS Major
 
 Before joining the class I was only a Management major, the first day of the semester I decided to join ITM 352, two hours before the class started. Last minute, I decided to change from only a Management major, to a double major in MIS and Management. My main reasons being that I really wanted to continue school, and I decided that MIS was a major that suit my interest with my love for computers and technology.
-
