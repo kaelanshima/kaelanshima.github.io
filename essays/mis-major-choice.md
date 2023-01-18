@@ -7,9 +7,6 @@ date: 2023-01-17
 published: true
 labels:
   - Management Information Systems
----
-
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
 *Why I Choose MIS Major*
 
