@@ -2,11 +2,12 @@
 layout: essay
 type: essay
 title: "Why I chose MIS major"
-# All dates must be YYYY-MM-DD format!
 date: 2023-01-17
 published: true
 labels:
   - Management Information Systems
+
+--
 
 *Why I Choose MIS Major*
 
